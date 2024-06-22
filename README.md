@@ -26,7 +26,7 @@
 
 ### 🖼 와이어프레임
 
- <img src="https://github.com/riverSun1/camparoo-readme/assets/67379144/280af54c-da67-4211-b0a7-ca256498297e" width="900"/>
+ <img src="https://github.com/JOYmet33/outsourcing-project/assets/67379144/6a6ecb4a-e233-470e-b0a6-8f52af92a778" width="900"/>
  
 <br><br>
 
